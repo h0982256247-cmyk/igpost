@@ -1,5 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 
+export const maxDuration = 60;
+
 import { validateAuth } from "@/lib/auth";
 import { AppError } from "@/lib/errors";
 import {
