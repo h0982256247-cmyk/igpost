@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "src/app/api/ig/publish/route.ts": {
+      "maxDuration": 60
+    }
+  }
+}
